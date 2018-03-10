@@ -107,7 +107,7 @@ p
             android:text="@string/login"
             android:textColor="@color/white"
             android:textSize="18sp"
-
+            android:layout_marginBottom="24dp"
             android:padding="1dp"/>
 
     </LinearLayout>
